@@ -1,0 +1,59 @@
+nav.main ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav.main ul li a{
+    color: #fff;
+    text-decoration: none;
+    background-color: #0F1B07;
+    padding: 5px;
+}
+
+nav.main ul li:hover a{
+    color: #0F1B07;
+    background-color: #fff;
+    transition:0.5s all;
+}
+
+h1{
+    color: #0F1B07;
+}
+
+body{
+    background-color: #C6D166;
+}
+
+main{
+    margin-left: 0px;
+    
+}
+
+footer{
+    background-color: #0F1B07;
+    color: #C6D166
+}
+
+div.popular{
+    background-color: #0F1B07;
+    margin-left: 50px;
+    border-radius: 2.5%;
+}
+
+div.recent{
+    background-color: #0F1B07;
+    margin-left: 50px;
+    border-radius: 2.5%;
+}
+
+h2{
+    margin-left: 100px;
+}
+
+p{
+    margin-left: 50px;
+}
+
+h1{
+    margin-left: 500px;
+}
+

@@ -1,0 +1,24 @@
+
+h1{
+    color: #0F1B07;
+}
+
+body{
+    background-color: #C6D166;
+}
+
+main{
+    margin-left: 0px;
+    
+}
+
+footer{
+    background-color: #0F1B07;
+    color: #C6D166
+}
+
+div.allu{
+    background-color: #0F1B07;
+    margin-left: 50px;
+    border-radius: 2.5%;
+}
